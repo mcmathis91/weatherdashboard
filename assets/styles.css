@@ -1,0 +1,39 @@
+.titlebar {
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    color: white;
+    background-color: black;
+}
+
+.searchbutton {
+  border-left: 1px solid black;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #06AED5;
+  color: white;
+}
+
+.card-header {
+    text-align: center;
+}
+
+.greenuv {
+  background-color: green
+}
+
+.yellowuv {
+  background-color: yellow
+}
+
+.orangeuv {
+  background-color: orange
+}
+
+.reduv {
+  background-color: red
+}
+
+.purpleuv {
+  background-color: purple
+}
